@@ -82,7 +82,8 @@ Sugerencia:
 ## Instalación de Git
 
 Git | :star: Sourcetree
-. Bajar e instalar [Git](https://gitforwindows.org/)| 1. Bajar e instalar [Sourcetree](https://www.sourcetreeapp.com/)
+--|--
+1. Bajar e instalar [Git](https://gitforwindows.org/)| 1. Bajar e instalar [Sourcetree](https://www.sourcetreeapp.com/)
 2. Abrir terminal | 2. Abrir Sourcetree
 3. Insertar código  :small_red_triangle_down: | 3. Tools>Options>General
 
@@ -718,8 +719,6 @@ li a {
 * [Animate.css](https://daneden.github.io/animate.css/) :star:
 * [Font Awesome Free](https://fontawesome.com/free)
 
-<hr>
-
 ## Recomendación
 
 * [UI-Patterns](http://ui-patterns.com/)
@@ -760,8 +759,6 @@ li a {
   Sin límite en el tamaño de envío
 </form>
 ```
-¿Cuándo usar cada método?
-
 
 ## `fieldset`
 
@@ -782,7 +779,7 @@ li a {
 ```
 
 
-## Tipos de `input` (I)
+## Tipos de `input`
 
 ```html
 <form>
@@ -800,14 +797,7 @@ li a {
   
   <input type="submit" value="Enviar">
   <input type="reset" value="Borrar">
-</form>
-```
 
-
-## Tipos de `input` (II)
-
-```html
-<form>
   Color: <input type="color">
   
   Fecha: <input type="date">
@@ -829,7 +819,7 @@ li a {
 ```
 
 
-## Tipos de `input` (III)
+## Más tipos de `input`
 
 ```html
 <form id="form1">
@@ -866,10 +856,7 @@ li a {
 </form>
 ```
 
-# 6. Javascript
-
-
-## Tipos de datos :heart:
+## Tipos de datos Javascript
 
 ```javascript
 var a; // undefined
@@ -1941,11 +1928,6 @@ select nombre from usuarios order by correo asc;
 6. Finish
 7. Cambiar a Chrome (o Firefox) como navegador principal
 8. Play
-
-
-## Mostrar menús de Netbeans
-
-![](Netbeans.png)
 
 
 ## Crear un archivo `JSP`
